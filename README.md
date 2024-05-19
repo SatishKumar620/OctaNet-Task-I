@@ -9,11 +9,13 @@ Property Listings: Display property images, descriptions, and prices.
 Contact Form: Simple and effective contact form for inquiries.
 Cross-Browser Compatibility: Works seamlessly on major web browsers.
 
+Images: Images used on this website are for project demonstration purposes only. All rights belong to their respective owners.
+
 Installation
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-<code>https://github.com/SatishKumar620/OctaNet-Task-I</code>
+<code>git clone https://github.com/SatishKumar620/OctaNet-Task-I</code>
 
 Usage:
 Open the index.html file in your preferred web browser to view the landing page. You can also use a local server for a better development experience.
